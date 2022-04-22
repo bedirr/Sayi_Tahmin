@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sayi Tahmin</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ana_sayfa_nav">Ana Sayfa</string>
+    <string name="profil_nav">Profil</string>
+</resources>

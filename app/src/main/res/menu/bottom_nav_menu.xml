@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/homeFragment"
+        android:checked="true"
+        android:icon="@drawable/anasayfa"
+        android:title="@string/ana_sayfa_nav" />
+    <item
+        android:id="@+id/profilFragment"
+        android:icon="@drawable/profil"
+        android:title="@string/profil_nav" />
+
+</menu>
